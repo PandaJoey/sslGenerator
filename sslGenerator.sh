@@ -96,7 +96,7 @@ justClientCA() {
 }
 
 
-printf "Wellcome to Akeros mongodb local ssl generator \n"
+printf "Welcome to Akeros mongodb local ssl generator \n"
 
 printf "If you are setting up a new mongodb server press 1 otherwise press enter to add more client keys"
 read -p "Enter choice: " choice
